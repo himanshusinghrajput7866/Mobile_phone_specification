@@ -12,7 +12,6 @@
 7. [Datatypes](#Datatypes)
 8. [Operators](#operators)
 9. [Clause](#clause)
-<!-- 10. [JOINS](#JOINS) -->
 10. [Conclusion](#Conclusion)
 11. [Reference link](#Reference-link)
 
