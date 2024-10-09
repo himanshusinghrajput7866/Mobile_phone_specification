@@ -22,12 +22,12 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 
 ## Processor (CPU) ka kya Kam Hai?
 
-- Processor, jo Central Processing Unit (CPU) ke naam se bhi jaana jaata hai, phone ka **dimag** hota hai. Yeh sabhi calculations aur tasks handle karta hai jo phone ko fast aur efficient banate hain. Mobile ke processors ko **Silicon** se banaya jata hai. Silicon se isliye banaya jata hai kyuki ye ek semiconductor hai or hamare processor me millions of transistors lage hote hai jise on/off karne ka kam karta hai silicon.
-- Or bhi reasons hai jiski wajah se silicon ko use kiya jata hai jaise ki ye **cost effective** bhi hota hai, ye **high temperature** ko handel kar sakta hai. Inhi silicons se bhi hamare transistors ko banaya jata hai.
-- Transistor ek chhota device hota hai jo bijli ke signal ko ya to bada kar deta hai (amplify karta hai) ya phir us signal ko on ya off karta hai (switch ki tarah kaam karta hai). Ye transistors chipset me lage hua hote hai or inki sankhya millions me hoti hai or har transistors ki duri (10-14)nm ki hoti hai. Mana jata hai ki in transistors ki duri ek dusre se jitni kam hoti hai hamara processor utna hi powerful or powerefficient bhi hota hai. 
-- Abhi tak ka sabse powerfull processor mobiles me Apple ke or Snapdragen ke processors ko mana jata hai kyuki in dono ne hi processors ko 3nm ki technology (har transistorn ki duri 3nm hai) pe based banaya hai jo ki bohot powerful hai.
+- Processor, jo Central Processing Unit (CPU) ke naam se bhi jaana jaata hai, phone ka **dimag** hota hai. Yeh sabhi calculations aur tasks handle karta hai jo phone ko fast aur efficient banate hain. Mobile ke processors bohot sare **transistors** se banaya jata hai or yahi transistors **Silicon** se bane hote hai.
+- Or bhi reasons hai jiski wajah se silicon ko use kiya jata hai jaise ki ye **cost effective** hota hai, ye **high temperature** ko bhi handel kar sakta hai.
+- Transistor ek chhota device hota hai jo bijli ke signal ko ya to bada kar deta hai (amplify karta hai) ya phir us signal ko on ya off karta hai (switch ki tarah kaam karta hai). Ye transistors chipset me lage hua hote hai or inki sankhya millions me hoti hai or har transistors ki duri (3-14)nm ki hoti hai ya isse jyada bhi ho skti hai. Mana jata hai ki in transistors ki duri ek dusre se jitni kam hogi processor utna hi powerful or powerefficient hota hai.
+- Abhi tak ka sabse powerfull processor mobiles me Apple ke or Snapdragen ke processors ko mana jata hai kyuki in dono ne hi processors ko 3nm ki technology (har transistor ki duri 3nm hai) pe based banaya hai wo bhi pure stabilasization ke saath jiski wajah se ye sabse powerfull processors nikal ke aate hai.
 
-### Types of Processors:
+### Types of Processors:- waise to bohot sare type ke processors hote hai lekin maine kuch hi processors ko mention kiya hai jo powerfull hai.
 
 - **Qualcomm Snapdragon**: Powerful aur battery-efficient hota hai, high-performance gaming aur multitasking ke liye best.
 - **Apple A-series (iPhone)**: Yeh iPhones ke liye custom-built hota hai, extremely fast aur optimized for iOS.
@@ -36,21 +36,25 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 **Powerful Processors Example**:
 - Snapdragon 8 Gen 3
 - Apple A18 Pro Chip
-- Snapdragon 8 Gen 3
+- Snapdragon 8 Gen 2
 - Apple A17 Pro Bionic Chip
+- Snapdragon 888
+- MeadiaTek Dimensity 9300
 
-**Kaise Kaam Karta Hai**:-
-- Jab aap app open karte ho, games khelte ho, ya multitasking karte ho, processor instructions ko execute karta hai. Jitne zyada cores aur high clock speed hogi, utna fast phone chalega. Iska matlab hai ki hamare processor ko cores me divide kiya jata hai ki heavy task ke liye 2 alag se cores banay gaye low task ke alag cores kam clockspeed wale cores ko banaya gaya mid range kam wale tasks ke liye medium clockspeed wale cores ko istemal kiya gaya taki ham power ko bacha sake or battery bhi bacha sake agar hamne sirf high clock speed wale hi cores ko istemal kiya to hamare processor ko continious lagana padega wo bhi high clockspeed ke sath jaise ki 3.2 Ghz ke sath jisse ki hamara processor heat bhi jaldi ho jayega or battery ka consumption bhi jyada hoga. 
+**Processor Kis Tarike se Kaam Karta Hai**:-
+
+- Jab aap app open karte ho, games khelte ho, ya multitasking karte ho, processor instructions ko execute karta hai. Jitne zyada cores aur high clock speed hogi, utna fast phone chalega. Iska matlab hai ki hamare processor ko cores me divide kiya jata hai ki heavy task ke liye 2 alag se cores banay gaye low task ke alag cores kam clockspeed wale cores ko banaya gaya mid range kam wale tasks ke liye medium clockspeed wale cores ko istemal kiya gaya taki ham power ko bacha sake or battery bhi bacha sake agar hamne sirf high clock speed wale hi cores ko istemal kiya to hamare processor ko continious power lagana padega wo bhi high clockspeed ke sath jaise ki 3.2 Ghz ke sath jis se ki hamara processor heat bhi jaldi ho jayega or battery ka consumption bhi jyada hoga. 
 
 ---
 
 ## Battery kaise Kaam Karti Hai?
 
-Battery phone ko power deti hai aur jitni badi battery hogi, utna zyada time tak phone chalega. Battery ka size milliampere-hour (mAh) me measure kiya jaata hai. Iska matlb ye nahi hai ki jis phone me 5000 mAh ki battery jyada chalegi or jis phone me 3200 mAh battery hai wo kam chalega. Wo phone ke parts pe bhi depend karta hai ki phone me kis type ka kis quality ka parts lagaya gaya hai display LCD to nahi Amoled to hai na Processor kam nanometer wala means powerefficient hai ki nahi battery or battery aachi quality hai ki nahi ye sare reasons depend karti hai battery kaise kam karegi phone me or kitne der kam karegi phone me.
+Phone ki battery kaam karti hai ek energy storage device ke roop mein, joki phone ke task ke according power supply karti hai Battery phone ko power deti hai aur jitni badi battery hogi, utna zyada time tak phone chalega. Battery ka size milliampere-hour (mAh) me measure kiya jaata hai. Iska matlb ye nahi hai ki jis phone me 5000 mAh ki battery hogi wo jyada chalegi or jis phone me 32000 mAh battery hai wo kam chalega. Wo phone ke parts pe bhi depend karta hai ki phone me kis type ka kis quality ke parts lagaya gaya hai display LCD to nahi Amoled to hai na Processor kam nanometer wala means powerefficient processor hai ki nahi or battery aachi quality ki hai ki nahi ye sare reasons depend karti hai battery kaise kam karegi phone me or kitne der kam karegi phone me.
 
 ### Battery Types:
 - **Lithium-Ion (Li-ion)**: Commonly used, efficient, but time ke saath degrade hoti hai.
-- **Lithium-Polymer (Li-Po)**: Ye thoda thin hota hai aur heat ko better manage karta hai, lekin ye thoda zyada expensive hoti hai.
+- **Lithium-Polymer (Li-Po)**: Ye thoda thin hota hai aur heat ko better manage karti hai, lekin ye thoda zyada expensive hoti hai or satrh hi jyada 
+    time tak chalte hai inki battery health jaldi nahi ghatati.
 
 **Battery Usage**: Jab aap phone use karte ho, apps run karte ho, games khelte ho, ya videos dekhte ho, battery consume hoti hai. To wo hi kitne der chali hai battery or kitni % ghati hai measure karta hai hamara system or use battery usage wale section me show karta hai Charging ke dauran, battery ko power supply milti hai aur wo full charge hone ke baad automatically cut off ho jaati hai to avoid overcharging. Agar cuttoff nahi hua to overcharging ki wajah se battery blast bhi ho sakti hai.
 
@@ -62,29 +66,31 @@ Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, et
 
 ### Display Features:
 - **AMOLED**: Best color reproduction, deeper blacks, aur energy-efficient hote hai.
-- **LCD**: Affordable, but AMOLED jitna vivid nahi hota.
+- **LCD**   : Affordable, but AMOLED jitna vivid nahi hota.
 - **Refresh Rate**: High refresh rate (90Hz, 120Hz, 144Hz) phone ko smoother experience deta hai.
 
-**Sabse Best Display**: Samsung ke AMOLED displays ko duniya ka sabse best mana jaata hai, specially for high-end smartphones. Yaha tak ki 
+**Sabse Best Display**: Samsung ke AMOLED displays ko duniya ka sabse best mana gaya hai, specially for high-end smartphones. Yaha tak ki 
   Apple bhi samsung ke banaye hua displays ko use karta hai.
 
 ---
 
 ## Android vs IOS: Kya Difference Hai?
 
-### Android:
-- **Customization**: Zyada open-source aur aap phone ko apne hisaab se customize kar sakte ho jaise ki ap 3rd party apps download kar sakte ho jaise ki acmarket app ko ap android me google pe jake kisi bhi link se download karke install kar sakte ho but IOS me nahi.
+### Android:-
+
+- **Customization**: Zyada open-source hai aur isme apne hisab se customization kar sakte hai jaise ki ham 3rd party apps download kar sakte hai jai
+                     for example acmarket app ko ap android me google se download karke install kar sakte hai but IOS me nahi.
 - **Manufacturers**: Multiple companies jaise Samsung, Xiaomi, OnePlus use karte hain.
-- **App Store**: Google Play Store se apps download karte ho.
-- **Price Range**: Har price range ke phones available hote hain.
+- **App Download** : Google Play Store se apps download karte ho.
+- **Price Range**  : Har price range ke phones available hote hain.
 
 ### IOS:
 - **Smooth Integration**: Apple ke ecosystem me kaam karta hai (Mac, iPad, Apple Watch ke sath seamless experience).
-- **Security**: Zyada secure aur privacy-focused.
-- **App Store**: Sirf Apple App Store ke through apps download kar sakte ho.
-- **Expensive**: iPhones generally zyada mehenga hote hain.
+- **Security**          : Zyada secure aur privacy-focused.
+- **App Store**         : Sirf Apple App Store ke through apps download kar sakte ho.
+- **Expensive**         : iPhones generally zyada mehenga hote hain.
 
-**Conclusion**: Android customization ke liye best hai, jabki IOS stability aur security ke liye.
+**Conclusion** : Android customization ke liye best hai, jabki IOS stability aur security ke liye.
 
 ---
 
@@ -109,10 +115,10 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 - **Usage**: Streaming, browsing ke liye kaafi hota hai.
 
 ### 5G:
-- **Speed**: 10-100 times faster hota hai 4G se.  Or streaming 4K me aaram se ho sakti hai, online gaming bina lag ke khel sakte hai ham 
-  bina high ping ka samna kiye. Ping ka matlab hai network delay.
+- **Speed**   : 10-100 times faster hota hai 4G se.  Or streaming 4K me aaram se ho sakti hai, online gaming bina lag ke khel sakte hai ham 
+                bina high ping ka samna kiye. Ping ka matlab hai network delay.
 
-- **Bands**: 5G kaam karne ke liye phone ko multiple bands support karne padte hain. Zyada bands ka matlab hai better network coverage.
+- **Bands**   : 5G internet chalne ke liye phone ko multiple 5G bands support karne padte hain. Zyada bands ka matlab hai better network coverage.
 
 **Conclusion**: Future me 5G se aapko lightning-fast internet milega, lekin abhi sab jagah fully deploy nahi hua hai.
 
@@ -120,19 +126,23 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 
 ## Phone Itne Mehenga Kyu Hota Hai?
 
-Sabse mehenga phone expensive components, advanced technology, aur premium build quality ke kaaran hota hai.
+Phone itne mahange isliye ote hai kyuki unme expensive components, advanced technology, aur premium build quality ka use kiya jata hai.
 
-### Factors:
-- **Build Quality**: High-grade materials jaise ceramic ya sapphire glass use hote hain phones ke back glass ko banane me.
-- **Processor**: Latest aur fastest processors use hote hain Mahnge phones me taki user smoothly chala sake or usko aisa na lage ki uske paise kharab nikal gaye is phone me kyuku lag ho raha hai isliye processor aacha lagate hai in phones me taki user experience aacha rahe.
+### Factors:-
 
-- **Display**: Super AMOLED, HDR10+ aur high refresh rate displays ko use kiya jata hai taki user ko screen me koi jitter ya slow na lage.
-
+- **Build Quality**    : High-grade materials jaise ceramic ya sapphire glass use hote hain phones ke back glass ko banane me.
+- **Processor**        : Latest aur fastest processors use hote hain Mahange phones me taki user smoothly chala sake or usko aisa na lage ki uske 
+                         paise kharab nikal gaye is phone me kyuku lag ho raha hai isliye processor aacha lagate hai mahange phones me taki user 
+                         experience aacha rahe.
+- **Display**          : Super AMOLED, HDR10+ aur high refresh rate displays ko use kiya jata hai taki user ko screen me koi jitter ya slow na lage.
 - **Camera Technology**: Advanced AI, optical zoom, aur DSLR-like photography experience wale features ko use kiya jata hai taki photos ko 
-  better quality me capture kiya ja sake.
+                         better quality me capture kiya ja sake.
+
+  
 # Antutu Score kya hota hai?
 
-**Antutu Score** ek number hota hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke CPU, GPU, memory, aur user experience ko check karke milta hai.
+**Antutu Score** ek number ka score hota hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke 
+CPU, GPU, memory, aur user experience ko check karke milta hai.
 
 ## **Antutu Score ka use kyun hota hai?**
 - Phone ki speed aur power ko **compare** karne ke liye.
