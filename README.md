@@ -6,7 +6,7 @@
 1. [Processor (CPU) ka Matlab Kya Hai?]
 2. [Types of Processors]
 3. [Battery kaise Kaam Karti Hai?]
-4. [Battery Types](#Battery-Types)
+4. [Battery Types]
 5. [Display ka Kaam Kya Hai?]
 6. [Android vs IOS: Kya Difference Hai?]
 7. [Datatypes]
