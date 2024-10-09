@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> Table of contents </h1>
 
 
-1. [Processor (CPU) ka Matlab Kya Hai?]
+1. [Processor (CPU) ka kya kam Hai?]
 2. [Types of Processors]
 3. [Battery kaise Kaam Karti Hai?]
 4. [Battery Types]
@@ -20,7 +20,7 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 
 ---
 
-## Processor (CPU) ka Matlab Kya Hai?
+## Processor (CPU) ka kya Kam Hai?
 
 - Processor, jo Central Processing Unit (CPU) ke naam se bhi jaana jaata hai, phone ka **dimag** hota hai. Yeh sabhi calculations aur tasks handle karta hai jo phone ko fast aur efficient banate hain. Mobile ke processors ko **Silicon** se banaya jata hai. Silicon se isliye banaya jata hai kyuki ye ek semiconductor hai or hamare processor me millions of transistors lage hote hai jise on/off karne ka kam karta hai silicon.
 - Or bhi reasons hai jiski wajah se silicon ko use kiya jata hai jaise ki ye **cost effective** bhi hota hai, ye **high temperature** ko handel kar sakta hai. Inhi silicons se bhi hamare transistors ko banaya jata hai.
