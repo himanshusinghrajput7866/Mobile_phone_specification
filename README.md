@@ -1,4 +1,4 @@
-# Phone Specification and Working Explanation
+# Phone Specification and Working Process
 
 <h1 style="text-align: center;"> Table of contents </h1>
 
