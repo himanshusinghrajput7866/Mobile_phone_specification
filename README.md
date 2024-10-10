@@ -57,7 +57,7 @@ Phone ki battery kaam karti hai ek energy storage device ke roop mein, joki phon
 
 ## Display ka Kaam Kya Hai?
 
-Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, etc. Aaj ke phones me **OLED** aur **AMOLED** displays sabse achi aur vivid quality dete hain. Isme vivid ka matlab hai "Vivid display" ka matlab hai ek aisi display ya screen jisme colors bohot zyada bright, sharp, aur clear hote hain.
+Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, etc. Aaj ke phones me **OLED** aur **AMOLED** displays sabse achi aur vivid quality dete hain. Isme vivid ka matlab hai "Vivid display" ek aisi display ya screen jisme colors bohot zyada bright, sharp, aur clear hote hain.
 
 ### Display Features:
 - **AMOLED**: Best color reproduction, deeper blacks, aur energy-efficient hote hai.
