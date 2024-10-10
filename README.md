@@ -6,14 +6,13 @@
 1. Processor (CPU) ka kya kam Hai
 2. Types of Processors
 3. Battery kaise Kaam Karti Hai
-4. Battery Types
-5. Display ka Kaam Kya Hai
-6. Android vs IOS: Kya Difference Hai
-7. Datatypes
-8. Operators
-9. Clause
-10. Conclusion
-11. Reference link
+4. Display ka Kaam Kya Hai
+5. Android vs IOS: Kya Difference Hai
+6. Datatypes
+7. Operators
+8. Clause
+9. Conclusion
+10. Reference link
 
 ## Introduction
 Is document me hum ek smartphone ke sabhi important features aur wo kaise kam karte hai yeh samjhaenge. Hum isme processor, battery, display, motherboard, charging, 5G, Android aur iOS ke differences ko detail me cover karenge. Or last me ham Antutu Score ke bare me bhi janenge.
@@ -51,10 +50,6 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 
 Phone ki battery kaam karti hai ek energy storage device ke roop mein, joki phone ke task ke according power supply karti hai Battery phone ko power deti hai aur jitni badi battery hogi, utna zyada time tak phone chalega. Battery ka size milliampere-hour (mAh) me measure kiya jaata hai. Iska matlb ye nahi hai ki jis phone me 5000 mAh ki battery hogi wo jyada chalegi or jis phone me 3200 mAh battery hai wo kam chalega. Wo phone ke parts pe bhi depend karta hai ki phone me kis type ka kis quality ke parts lagaya gaya hai display LCD to nahi Amoled to hai na Processor kam nanometer wala means powerefficient processor hai ki nahi or battery aachi quality ki hai ki nahi ye sare reasons depend karti hai battery kaise kam karegi phone me or kitne der kam karegi phone me.
 
-### Battery Types:
-- **Lithium-Ion (Li-ion)**: Commonly used, efficient, but time ke saath degrade hoti hai.
-- **Lithium-Polymer (Li-Po)**: Ye thoda thin hota hai aur heat ko better manage karti hai, lekin ye thoda zyada expensive hoti hai or satrh hi jyada 
-    time tak chalte hai inki battery health jaldi nahi ghatati.
 
 **Battery Usage**: Jab aap phone use karte ho, apps run karte ho, games khelte ho, ya videos dekhte ho, battery consume hoti hai. To wo hi kitne der chali hai battery or kitni % ghati hai measure karta hai hamara system or use battery usage wale section me show karta hai Charging ke dauran, battery ko power supply milti hai aur wo full charge hone ke baad automatically cut off ho jaati hai to avoid overcharging. Agar cuttoff nahi hua to overcharging ki wajah se battery blast bhi ho sakti hai.
 
