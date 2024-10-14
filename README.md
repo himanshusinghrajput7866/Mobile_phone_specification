@@ -47,16 +47,18 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 ---
 ## Phone me use hone wali batteries mainly do prakar ki hoti hain:-
 
-- Lithium-ion (Li-ion) Battery
+Lithium-ion (Li-ion) Battery
 
-Yeh sabse zyada commonly use hone wali battery hai smartphones me.
-Yeh battery lightweight hoti hai aur iski energy density kaafi high hoti hai, jo zyada backup provide karti hai.
-Isko baar baar charge karne par bhi iski capacity zyada time tak maintain rehti hai.
+- Yeh sabse zyada commonly use hone wali battery hai smartphones me.
+- Yeh battery lightweight hoti hai aur iski energy density kaafi high hoti hai, jo zyada backup provide karti hai.
+- Isko baar baar charge karne par bhi iski capacity zyada time tak maintain rehti hai.
+
 Lithium-Polymer (Li-Po) Battery
 
-Yeh bhi kaafi popular battery hai jo latest smartphones me use hoti hai.
-Li-Po batteries flexible hoti hain, is wajah se inhe patla aur alag-alag shapes me banaya ja sakta hai, jo slim phones ke liye acchi hoti hai.
-Yeh lightweight hoti hain aur explosion ke chances kam hote hain.
+- Yeh bhi kaafi popular battery hai jo latest smartphones me use hoti hai.
+- Li-Po batteries flexible hoti hain, is wajah se inhe patla aur alag-alag shapes me banaya ja sakta hai, jo slim phones ke liye acchi hoti hai.
+- Yeh lightweight hoti hain aur explosion ke chances kam hote hain.
+
 ## Battery kaise Kaam Karti Hai?
 
 Phone ki battery kaam karti hai ek energy storage device ke roop mein, joki phone ke task ke according power supply karti hai Battery phone ko power deti hai aur jitni badi battery hogi, utna zyada time tak phone chalega. Battery ka size milliampere-hour (mAh) me measure kiya jaata hai. Iska matlb ye nahi hai ki jis phone me 5000 mAh ki battery hogi wo jyada chalegi or jis phone me 3200 mAh battery hai wo kam chalega. Wo phone ke parts pe bhi depend karta hai ki phone me kis type ka kis quality ke parts lagaya gaya hai display LCD to nahi Amoled to hai na Processor kam nanometer wala means powerefficient processor hai ki nahi or battery aachi quality ki hai ki nahi ye sare reasons depend karti hai battery kaise kam karegi phone me or kitne der kam karegi phone me.
