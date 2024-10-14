@@ -72,13 +72,12 @@ Phone ki battery kaam karti hai ek energy storage device ke roop mein, joki phon
 
 Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, etc. Aaj ke phones me **OLED** aur **AMOLED** displays sabse achi aur vivid quality dete hain. Isme vivid ka matlab hai "Vivid display" ek aisi display ya screen jisme colors bohot zyada bright, sharp, aur clear hote hain.
 
-### Display Features:
-- **AMOLED**: Best color reproduction, deeper blacks, aur energy-efficient hote hai.
-- **LCD**   : Affordable, but AMOLED jitna vivid nahi hota.
-- **Refresh Rate**: High refresh rate (90Hz, 120Hz, 144Hz) phone ko smoother experience deta hai.
+### Display Technoligies :
+- **AMOLED**       : Best color reproduction, deeper blacks, aur energy-efficient hote hai.
+- **LCD**          : Affordable, but AMOLED jitna vivid nahi hota.
+- **Refresh Rate** : High refresh rate (90Hz, 120Hz, 144Hz) phone ko smoother experience deta hai.
 
-**Sabse Best Display**: Samsung ke AMOLED displays ko duniya ka sabse best mana gaya hai, specially for high-end smartphones. Yaha tak ki 
-  Apple bhi samsung ke banaye hua displays ko use karta hai.
+**Sabse Best Display**: Samsung ke AMOLED displays ko duniya ka sabse best mana gaya hai, specially for high-end smartphones. Yaha tak ki Apple bhi samsung ke banaye hua displays ko use karta hai.
 
 ---
 
@@ -86,8 +85,7 @@ Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, et
 
 ### Android:-
 
-- **Customization**: Zyada open-source hai aur isme apne hisab se customization kar sakte hai jaise ki ham 3rd party apps download kar sakte hai jai
-                     for example acmarket app ko ap android me google se download karke install kar sakte hai but IOS me nahi.
+- **Customization**: Zyada open-source hai aur isme apne hisab se customization kar sakte hai jaise ki ham 3rd party apps download kar sakte hai jai for example acmarket app ko ap android me google se download karke install kar sakte hai but IOS me nahi.
 - **Manufacturers**: Multiple companies jaise Samsung, Xiaomi, OnePlus use karte hain.
 - **App Download** : Google Play Store se apps download karte ho.
 - **Price Range**  : Har price range ke phones available hote hain.
