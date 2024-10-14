@@ -26,7 +26,7 @@ Is document me hum ek smartphone ke sabhi important features aur wo kaise kam ka
 - Transistor ek chhota device hota hai jo bijli ke signal ko ya to bada kar deta hai (amplify karta hai) ya phir us signal ko on ya off karta hai (switch ki tarah kaam karta hai). Ye transistors chipset me lage hua hote hai or inki sankhya millions me hoti hai or har transistors ki duri (3-14)nm ki hoti hai ya isse jyada bhi ho skti hai. Mana jata hai ki in transistors ki duri ek dusre se jitni kam hogi processor utna hi powerful or powerefficient hota hai.
 - Abhi tak ka sabse powerfull processor mobiles me Apple ki bionic chip or Qualcom ka Snapdragon ke processors ko mana jata hai kyuki in dono ne hi processors ko 3nm ki technology (har transistor ki duri 3nm hai) pe based banaya hai wo bhi pure stabilization ke saath jiski wajah se ye sabse powerfull processors nikal ke aate hai.
 
-### Types of Processors:- 
+### Brands of Processors:- 
 - waise to bohot sare type ke processors hote hai lekin maine kuch hi processors ko mention kiya hai jo powerfull hai.
 - **Qualcomm Snapdragon**: Powerful aur battery-efficient hota hai, high-performance gaming aur multitasking ke liye best.
 - **Apple A-series (iPhone)**: Yeh iPhones ke liye custom-built hota hai, extremely fast aur optimized for iOS.
