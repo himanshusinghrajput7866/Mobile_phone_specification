@@ -121,7 +121,7 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 
 ## Phone Itne Mehenga Kyu Hota Hai?
 
-Phone itne mahange isliye ote hai kyuki unme expensive components, advanced technology, aur premium build quality ka use kiya jata hai.
+Phone itne mahange isliye hote hai kyuki unme expensive components, advanced technology, aur premium build quality ka use kiya jata hai.
 
 ### Factors:-
 
