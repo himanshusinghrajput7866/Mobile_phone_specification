@@ -134,7 +134,7 @@ Phone itne mahange isliye ote hai kyuki unme expensive components, advanced tech
                          better quality me capture kiya ja sake.
 
   
-# Antutu Score kya hota hai?
+# Test of antutu ?
 
 **Antutu Score** ek number ka score hota hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke 
 CPU, GPU, memory, aur user experience ko check karke milta hai.
