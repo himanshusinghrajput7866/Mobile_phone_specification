@@ -117,14 +117,14 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 ## 5G, 4G, Aur Network Bands
 - 5G 4G se zyada fast hai kuch important technology improvements ki wajah se:
 
-Higher Frequency Bands
-- 5G zyada high frequency bands use karta hai (up to 100 GHz), jo zyada data carry kar sakti hain.
+- Higher Frequency Bands
+5G zyada high frequency bands use karta hai (up to 100 GHz), jo zyada data carry kar sakti hain.
 
-Wider Channel Bandwidth
-- 5G wider bandwidths (up to 100 MHz) ka use karta hai, jis se zyada data ek sath transfer ho sakta hai.
+- Wider Channel Bandwidth
+5G wider bandwidths (up to 100 MHz) ka use karta hai, jis se zyada data ek sath transfer ho sakta hai.
 
-Low Latency
-- 5G latency ko kaafi kam karta hai (as low as 1 millisecond), jo fast response time deta hai.
+- Low Latency
+5G latency ko kaafi kam karta hai (as low as 1 millisecond), jo fast response time deta hai.
 
 ### 4G:
 - **Speed**: Approx 100 Mbps tak data speed milti hai.
