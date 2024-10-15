@@ -196,13 +196,13 @@ CPU, GPU, memory, aur user experience ko check karke milta hai.
 3. Test hone ke baad tumhara **final score** aa jayega screen par.
 
 ## GPU test
-- AnTuTu benchmark ka GPU test device ki graphical performance ko measure karta hai. Ye test kuch important aspects pe focus karta hai:
+ AnTuTu benchmark ka GPU test device ki graphical performance ko measure karta hai. Ye test kuch important aspects pe focus karta hai:
 - 3D Rendering Performance: Isme complex 3D graphics aur environments render kiye jate hain, jo high-end games ke performance ko simulate karte hain.
 - Vulkan aur OpenGL ES: Ye APIs ka use karke GPU ki efficiency ko check karta hai, jo modern apps aur games ke liye zaroori hoti hai.
 - Graphics Intensity: GPU pe heavy tasks jaise particle effects, lighting, shadows, aur complex textures daale jate hain, jisse pata 
-- chale ki GPU kitna effectively graphic-heavy operations handle kar raha hai.
+ chale ki GPU kitna effectively graphic-heavy operations handle kar raha hai.
 
-- GPU Score Pe Asar Daalne Wale Factors:
+  GPU Score Pe Asar Daalne Wale Factors:
 - GPU architecture  : Naya aur powerful architecture hoga to score zyada hoga.
 - Resolution aur FPS: High resolution pe smooth rendering aur high frame rates better scores denge.
 - Thermal Throttling: Agar device overheat ho gaya to performance drop ho sakti hai aur score kam ho sakta hai.
