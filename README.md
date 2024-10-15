@@ -117,6 +117,7 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 ## 5G, 4G, Aur Network Bands
 - 5G 4G se zyada fast hai kuch important technology improvements ki wajah se:
 
+#Why is 5G faster?
 - Higher Frequency Bands
 5G zyada high frequency bands use karta hai (up to 100 GHz), jo zyada data carry kar sakti hain.
 
