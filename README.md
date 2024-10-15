@@ -77,7 +77,8 @@ Display wo hoti hai jisme aap sab kuch dekhte ho, jaise apps, videos, photos, et
 - **LCD**          : Affordable, but AMOLED jitna vivid nahi hota.
 - **Refresh Rate** : High refresh rate (90Hz, 120Hz, 144Hz) phone ko smoother experience deta hai.
 
-**Sabse Best Display**: Samsung ke AMOLED displays ko duniya ka sabse best mana gaya hai, specially for high-end smartphones. Yaha tak ki Apple bhi samsung ke banaye hua displays ko use karta hai.
+**Sabse Best Display**: 
+Samsung ke AMOLED displays ko duniya ka sabse best mana gaya hai, specially for high-end smartphones. Yaha tak ki Apple bhi samsung ke banaye hua displays ko use karta hai.
 
 ---
 
@@ -117,7 +118,7 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 ## 5G, 4G, Aur Network Bands
 - 5G 4G se zyada fast hai kuch important technology improvements ki wajah se:
 
-#Why is 5G faster?
+# Why is 5G faster?
 - Higher Frequency Bands
 5G zyada high frequency bands use karta hai (up to 100 GHz), jo zyada data carry kar sakti hain.
 
